@@ -1,6 +1,8 @@
 github_users:
   - curtiscali
 
+repo_description_lines_max: 2
+
 github_repos:
   - curtiscali/dotfiles
   - firstcontributions/first-contributions
